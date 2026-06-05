@@ -1,0 +1,13 @@
+{
+    "titulo": "Mi primer paquete en NodeJS",
+    "autor": "Rubén",
+    "descripción": "Este es un paquete de ejemplo para demostrar cómo crear un paquete en NodeJS.",
+    "temas": [
+        "NodeJS",
+        "Paquetes",
+        "JavaScript"
+    ],
+    "version": "1.0.0",
+    "esPublico": true
+}
+
